@@ -1,0 +1,11 @@
+touch/assets/blends/*
+touch/calibration/displacement/*
+blender/venue_photos/
+blender/sim_render/
+blender/exported/
+blender/examples/
+blender/assets/
+*.png
+!halcyon.png
+*.JPG
+*.tog
