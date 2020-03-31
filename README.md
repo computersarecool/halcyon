@@ -17,6 +17,8 @@ the venue is considerably more complicated (including elements to control the ve
 
 Some components also have `privacy` enabled. Hit me up if you are curious about elements that can't be shared online.
 
+A more full write up of this project is available [here](https://willynolan.com/halcyon).
+
 ## Tested On
 - Windows
 
