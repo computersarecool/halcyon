@@ -12,7 +12,7 @@ This project features a very simple GUI split into three sections: controls for 
 
 There are several examples of the final result on [YouTube](https://www.youtube.com/watch?v=5YREMmuiGhc).
 
-NOTE: This project has beens simplified to make it less specific to the venue and easier to look at.  This comes at the cost of functionality. The project installed in
+**NOTE: This project has beens simplified to make it less specific to the venue and easier to navigate.**  This comes at the cost of functionality. The project installed in
 the venue is considerably more complicated (including elements to control the venue's Hog4PC server and DMX lights).
 
 Some components also have `privacy` enabled. Hit me up if you are curious about elements that can't be shared online.
@@ -20,13 +20,13 @@ Some components also have `privacy` enabled. Hit me up if you are curious about 
 A more full write up of this project is available [here](https://willynolan.com/halcyon).
 
 ## Tested On
-- Windows
+- Windows 10
 
 ## To Use
 - Clone this repo and open `TouchDesigner/project.toe`
 
 ## Project Structure
-NOTE: This is definitely not how a normal project should be structured.
+**NOTE: This is not how a typical project should or would be structured.**
 Here, nothing is externalized because the simplest possible choices (at every opportunity)
 were taken with the end user (operator) in mind.
 
